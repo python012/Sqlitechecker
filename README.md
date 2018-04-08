@@ -1,1 +1,1 @@
-# Sqlitechecker
+Just a old tool to help analyze sqlite files and build report.
