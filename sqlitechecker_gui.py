@@ -51,7 +51,7 @@ FINISHED_DB_COUNT = 0
 WATERMARKE_STATUS = None
 EN_SCREEN_NUMBER = 0
 error_number = 0
-mysql_IP = "10.194.77.221"
+mysql_IP = "10.19.7.22"
 
 DIRECTOR = urllib2.build_opener(SMBHandler)
 screen_conn = None
@@ -66,8 +66,8 @@ result_page = None
 
 # Screen Server config
 SS_USER = 'scrserver'
-SS_PW = 'motorola123'
-SS_IP = '10.194.77.221'
+SS_PW = 'momomo123'
+SS_IP = '10.19.7.22'
 SS_PORT = 139
 
 # The values as bgcolor of the name row in the forms
