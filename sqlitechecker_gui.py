@@ -84,7 +84,7 @@ CLIENT_SECRETS_FILE = 'client_secret.json'
 CREDENTIALS_FILE = 'credentials.json'
 RO_SCOPE = 'https://www.googleapis.com/auth/devstorage.read_only'
 MISSING_CLIENT_SECRETS_MESSAGE = "The secret file is missing"
-bucket_name = "mmavikscreenshot01"
+bucket_name = "maviscreenshot01"
 cloud_service = None
 bad_screen_list = [] # The list of screens not sync to Cloud Server.
 
